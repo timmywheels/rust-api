@@ -19,6 +19,5 @@ async fn main() -> Result<()> {
     } else {
         println!("{} is not a user!", user);
     }
-
     Ok(())
 }
